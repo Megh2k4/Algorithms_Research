@@ -1,4 +1,4 @@
-## CS2XC3 | Experimentation on behaviour of algorithms and data structures
+## Experimentation on behaviour of algorithms and data structures
 ### Overview
 This repository contains implementations, analyses, and modifications of core algorithms and data structures covered in the CS2XC3 course. The project delves into the inner workings of fundamental concepts and explores how algorithmic behavior changes under constraints or when adapted for specific use cases.
 ### Key Explorations
